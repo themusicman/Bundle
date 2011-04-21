@@ -24,4 +24,4 @@ Bundle has the concept of a main bundle, which would be the application director
 		
 ## Issues
 
-Please log any issues or problems here: <https://github.com/themusicman/Houdini/issues>
+Please log any issues or problems here: <https://github.com/themusicman/Bundle/issues>
